@@ -1,0 +1,10 @@
+#py cache files
+*.pyc
+
+#.db files
+symbology-style.db
+user-history.db
+
+resources.py
+resources.qrc
+.ipynb_checkpoints
