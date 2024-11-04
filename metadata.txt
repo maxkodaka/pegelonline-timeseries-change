@@ -1,0 +1,9 @@
+[general]
+name=TS Derivatives
+description=Extracts time series and displays their most recent rate of change to see sudden increases in water level and other quantitities.
+about=Extracts time series and displays their most recent rate of change to see sudden increases in water level and other quantitities.
+version=1.0
+qgisMinimumVersion=3.0
+author=Max Kodaka
+email=maxsivanov@protonmail.com
+repository=https://gitlab.uni-trier.de/geoinformatics/gis-application-development/gap2_ss23/s6maivan
