@@ -6,7 +6,7 @@ This is a QGIS plugin that queries the Pegelonline API for all the time series b
 
 You can see at a glance on a map how much water level, flow rate, or a number of other parameters have changed after a rainfall event.
 
-## How to use it?
+## Installation
 
 1. Clone from this github repository to your local QGIS plugin folder
 2. Run QGIS and enable "tsderiv" in the plugins menu
